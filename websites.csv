@@ -1,0 +1,120 @@
+﻿fileurl,name,website,author
+https://malsilo.gitlab.io/feeds/dumps/url_list.txt,,,
+http://www.botvrij.eu/data/ioclist.domain.raw,Botvrij.eu - domains,http://botvrij.eu/,Botvrij.eu
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt,CoinBlocker Domains,https://zerodot1.gitlab.io/CoinBlockerListsWeb/,ZeroDot1
+http://reputation.alienvault.com/reputation.data,Alienvault IP Reputation,https://www.alienvault.com/,AlienVault
+https://www.badips.com/get/list/any/2,Bad IPs,https://www.badips.com/,badIPs
+https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw,BBcan177 DNSBL,http://pfblockerng.com,BBcan177
+https://gist.githubusercontent.com/BBcan177/bf29d47ea04391cb3eb0/raw/,BBcan177 Malicious IPs,http://pfblockerng.com,BBcan177
+https://lists.blocklist.de/lists/all.txt,Blocklist.de Blocklist,http://www.blocklist.de/en/index.html,Blocklist.de
+http://www.botvrij.eu/data/ioclist.hostname.raw,Botvrij.eu - hostnames,http://botvrij.eu/,Botvrij.eu
+http://www.botvrij.eu/data/ioclist.ip-dst.raw,Botvrij.eu - ips,,Botvrij.eu
+http://www.botvrij.eu/data/ioclist.url.raw,Botvrij.eu - urls,http://botvrij.eu/,Botvrij.eu
+http://danger.rulez.sk/projects/bruteforceblocker/blist.php,Brute Force Blocker,http://danger.rulez.sk/,Daniel Gerzo
+http://osint.bambenekconsulting.com/feeds/c2-dommasterlist.txt,C&C Domains,http://www.bambenekconsulting.com/,Bambenek Consulting
+https://faf.bambenekconsulting.com/feeds/dga/c2-dommasterlist.txt,C&C Domains,http://www.bambenekconsulting.com/,Bambenek Consulting
+http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt,C&C IPs,http://www.bambenekconsulting.com/,Bambenek Consulting
+https://faf.bambenekconsulting.com/feeds/dga/c2-ipmasterlist.txt,C&C IPs,http://www.bambenekconsulting.com/,Bambenek Consulting
+http://cinsscore.com/list/ci-badguys.txt,CI Bad Guys,http://cinsscore.com/,cinsscore.com
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt,Compromised IPs,,Emerging Threats
+https://feodotracker.abuse.ch/blocklist/?download=ipblocklist,Cridex IPs,https://abuse.ch/,abuse.ch
+http://www.darklist.de/raw.php,Darklist,http://darklist.de/,Darklist
+http://charles.the-haleys.org/ssh_dico_attack_hdeny_format.php/hostsdeny.txt,Dictionary SSH Attacks,,Charles B. Haley
+http://www.joewein.net/dl/bl/dom-bl.txt,Domains Blacklist,http://www.joewein.net/,joewein.de
+https://sslbl.abuse.ch/blacklist/dyre_sslipblacklist_aggressive.csv,Dyre Botnet IPs,https://abuse.ch/,abuse.ch
+https://feodotracker.abuse.ch/blocklist/?download=snort,Feodo Tracker,https://abuse.ch/,abuse.ch
+http://blocklist.greensnow.co/greensnow.txt,GreenSnow Blacklist,https://greensnow.co/,GreenSnow
+https://raw.githubusercontent.com/LinuxTracker/Blocklists/master/HancitorIPs.txt,Hancitor IPs,,LinuxTracker
+https://threatintel.stdominics.sa.edu.au/droplist_high_confidence.txt,High Confidence IPv4 Drop List,https://threatintel.stdominics.sa.edu.au/,St. Dominics Priory College - Australia
+http://mirror2.malwaredomains.com/files/immortal_domains.txt,Immortal Malware Domains,http://www.malwaredomains.com/,DNS-BH
+http://www.ipspamlist.com/public_feeds.csv,IPSpamList,http://www.ipspamlist.com/,NoVirusThanks
+http://www.urlvir.com/export-ip-addresses/,Malicious EXE IPs,http://www.urlvir.com/,NoVirusThanks
+http://www.urlvir.com/export-hosts/,Malicious EXE URLs,http://www.urlvir.com/,NoVirusThanks
+https://tracker.h3x.eu/api/sites_1day.php,Malware Corpus Tracker,http://tracker.h3x.eu/,Malware Corpus Tracker
+http://malc0de.com/bl/ZONES,Malware Domains,http://malc0de.com/dashboard/,malc0de
+http://www.malwaredomainlist.com/mdlcsv.php,Malware Domains List,http://www.malwaredomainlist.com/,malwaredomainslist.com
+https://raw.githubusercontent.com/Hestat/minerchk/master/hostslist.txt,Monero Miner,,Minerchk
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt,NoCoin,,Hoshsadiq
+https://openphish.com/feed.txt,OpenPhish,https://openphish.com/,OpenPhish
+http://data.phishtank.com/data/online-valid.csv,PhishTank,https://www.phishtank.com/,PhishTank
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt,Ransomware Domains,https://abuse.ch/,abuse.ch
+https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt,Ransomware IPs,https://abuse.ch/,abuse.ch
+https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt,Ransomware URLs,https://abuse.ch/,abuse.ch
+https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt,Simple Malware List,https://disconnect.me/,Disconnect.me
+https://sslbl.abuse.ch/blacklist/sslipblacklist.csv,SSL BL,https://abuse.ch/,abuse.ch
+https://secure.dshield.org/feeds/suspiciousdomains_Low.txt,Suspicious Domains,https://dshield.org/,DShield
+http://dns-bh.sagadc.org/dynamic_dns.txt,Suspicious Dynamic DNS Providers,,dns-bh.sagadc.org
+http://www.talosintelligence.com/documents/ip-blacklist,Talos IP Blacklist,https://www.talosintelligence.com/,Cisco Talos
+https://www.dan.me.uk/torlist/,Tor IPs,https://www.dan.me.uk/,dan.me.uk
+https://urlhaus.abuse.ch/downloads/text/,URLhaus,https://abuse.ch/,abuse.ch
+https://zeustracker.abuse.ch/blocklist.php?download=baddomains,Zeus Bad Domains,https://abuse.ch/,abuse.ch
+https://zeustracker.abuse.ch/blocklist.php?download=badips,Zeus Bad IPs,https://abuse.ch/,abuse.ch
+"""-------------------- BELOW ARE FROM MISP ---------------------""",,,
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt,,,
+https://panwdbl.appspot.com/lists/mdl.txt,,,
+https://www.dan.me.uk/torlist/?exit,,,
+https://www.dan.me.uk/torlist/,,,
+https://cybercrime-tracker.net/all.php,,,
+https://data.phishtank.com/data/online-valid.csv,,,
+http://dns-bh.sagadc.org/dynamic_dns.txt,,,
+https://labs.snort.org/feeds/ip-filter.blf,,,
+http://longtail.it.marist.edu/honey/current-ip-addresses.txt,,,
+http://longtail.it.marist.edu/honey/last-7-days-ip-addresses.txt,,,
+https://raw.githubusercontent.com/pan-unit42/iocs/master/diamondfox/diamondfox_panels.txt,,,
+https://home.nuug.no/~peter/pop3gropers.txt,,,
+https://feodotracker.abuse.ch/downloads/ipblocklist.csv,,,
+https://hosts-file.net/psh.txt,,,
+https://hosts-file.net/emd.txt,,,
+https://openphish.com/feed.txt,,,
+https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset,,,
+https://osint.bambenekconsulting.com/feeds/c2-ipmasterlist-high.txt,,,
+https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt,,,
+https://cinsscore.com/list/ci-badguys.txt,,,
+https://reputation.alienvault.com/reputation.generic,,,
+https://lists.blocklist.de/lists/all.txt,,,
+https://dataplane.org/vncrfb.txt,,,
+https://dataplane.org/sshpwauth.txt,,,
+https://dataplane.org/sipregistration.txt,,,
+https://dataplane.org/sipquery.txt,,,
+https://dataplane.org/sipinvitation.txt,,,
+http://osint.bambenekconsulting.com/feeds/dga-feed-high.csv,,,
+http://vxvault.net/URL_List.php,,,
+https://sslbl.abuse.ch/blacklist/sslipblacklist.csv,,,
+https://sslbl.abuse.ch/blacklist/dyre_sslipblacklist.csv,,,
+https://cybercrime-tracker.net/ccamlist.php,,,
+https://cybercrime-tracker.net/ccamgate.php,,,
+https://hosts-file.net/grm.txt,,,
+https://blocklist.greensnow.co/greensnow.txt,,,
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt?inline=false,,,
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt?inline=false,,,
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt?inline=false,,,
+https://api.cybercure.ai/feed/get_ips?type=csv,,,
+https://api.cybercure.ai/feed/get_url?type=csv,,,
+https://api.cybercure.ai/feed/get_hash?type=csv,,,
+http://www.ipspamlist.com/public_feeds.csv,,,
+https://mirai.security.gives/data/ip_list.txt,,,
+https://malsilo.gitlab.io/feeds/dumps/url_list.txt,,,
+https://malsilo.gitlab.io/feeds/dumps/ip_list.txt,,,
+https://malsilo.gitlab.io/feeds/dumps/domain_list.txt,,,
+https://malshare.com/daily/malshare.current.all.txt,,,
+https://benkow.cc/export_rat.php,,,
+https://benkow.cc/export.php,,,
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt,false positive level 7,,
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt,false positive level 6,,
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt,false positive level 5,,
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt,false positive level 4,,
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt,false positive level 3,,
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt,false positive level 2,,
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt,false positive level 1,,
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt,false positive level 0,,
+"""-------------------- ZIP FILES FROM BELOW-------------------""",,,
+#https://urlhaus.abuse.ch/downloads/csv/,zip file,,
+"""------------------ JSON FILES FROM BELOW ----------------------""",,,
+https://www.circl.lu/doc/misp/feed-osint,,,
+https://www.botvrij.eu/data/feed-osint,,,
+https://osint.digitalside.it/Threat-Intel/digitalside-misp-feed/,,,
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,,,
+https://osint.digitalside.it/Threat-Intel/lists/latesthashes.txt,,,
+https://osint.digitalside.it/Threat-Intel/lists/latestips.txt,,,
+https://osint.digitalside.it/Threat-Intel/lists/latesturls.txt,,,
+https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestips.txt,,,
